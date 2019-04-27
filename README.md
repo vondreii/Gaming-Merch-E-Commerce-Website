@@ -13,4 +13,4 @@ user-friendly interface, intuitive design, and reliable product and user informa
 
 ## Requirements ##
 * Visual Studio (with .NET core and .NET framework, version 2.0 or above)
-* SQL Server Management Studio 
+* SQL Server Management Studio
