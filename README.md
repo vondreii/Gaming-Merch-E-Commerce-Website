@@ -1,1 +1,12 @@
-# Gaming-Merch-E-Commerce-Website
+# MerchKraft #
+
+## Gaming Merch E-Commerce Website ##
+Merchkraft is a prototype of an ecommerce website that provides a wide range of gaming merchandise, such as Skyrim T Shirts, 
+Fallout 4 Curtains or other gaming accessories. Customers can browse through categories and add products into 
+their shopping cart and buy them either using their bank card or their online Paypal account.
+Admin can add, edit and delete products in the database. 
+The goal of Merchkraft is to provide the customer with an excellent online shopping experience using a 
+user-friendly interface, intuitive design, and reliable product and user information.\
+
+
+![Alt text](Images/Capture.PNG?raw=true "Gameplay")
