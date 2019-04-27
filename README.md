@@ -6,7 +6,11 @@ Fallout 4 Curtains or other gaming accessories. Customers can browse through cat
 their shopping cart and buy them either using their bank card or their online Paypal account.
 Admin can add, edit and delete products in the database. 
 The goal of Merchkraft is to provide the customer with an excellent online shopping experience using a 
-user-friendly interface, intuitive design, and reliable product and user information.\
+user-friendly interface, intuitive design, and reliable product and user information. Uses C# and ASP.NET.
 
 
-![Alt text](Images/Capture.PNG?raw=true "Gameplay")
+![Alt text](Images/Capture.PNG?raw=true "Website")
+
+## Requirements ##
+* Visual Studio (with .NET core and .NET framework, version 2.0 or above)
+* SQL Server Management Studio 

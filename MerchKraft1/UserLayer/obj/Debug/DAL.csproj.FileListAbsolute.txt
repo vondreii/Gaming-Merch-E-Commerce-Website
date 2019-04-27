@@ -1,0 +1,597 @@
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\ApplicationInsights.config
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\UserLayer.dll.config
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\UserLayer.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\UserLayer.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\csc.exe
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\csc.exe.config
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\csc.rsp
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\csi.exe
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\csi.exe.config
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\csi.rsp
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.AppContext.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Console.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.Process.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.IO.Compression.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.IO.Pipes.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Security.AccessControl.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Security.Claims.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Threading.Thread.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.ValueTuple.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\vbc.exe
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\vbc.exe.config
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\vbc.rsp
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Antlr3.Runtime.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.jQuery.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Newtonsoft.Json.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\System.Web.Optimization.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\WebGrease.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\System.Web.Optimization.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Antlr3.Runtime.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Newtonsoft.Json.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CopyComplete
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\obj\Debug\UserLayer.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\UserLayer\obj\Debug\UserLayer.pdb
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\ApplicationInsights.config
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\UserLayer.dll.config
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\UserLayer.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\UserLayer.pdb
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\csc.exe
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\csc.exe.config
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\csc.rsp
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\csi.exe
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\csi.exe.config
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\csi.rsp
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.AppContext.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Console.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\vbc.exe
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\vbc.exe.config
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\vbc.rsp
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Antlr3.Runtime.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Newtonsoft.Json.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\System.Web.Optimization.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\WebGrease.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\System.Web.Optimization.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Antlr3.Runtime.pdb
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Newtonsoft.Json.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\obj\Debug\UserLayer.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\obj\Debug\UserLayer.pdb
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\UserLayer\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\ApplicationInsights.config
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\UserLayer.dll.config
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\UserLayer.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\UserLayer.pdb
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\csc.exe
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\csc.exe.config
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\csc.rsp
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\csi.exe
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\csi.exe.config
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\csi.rsp
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.AppContext.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Console.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\vbc.exe
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\vbc.exe.config
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\vbc.rsp
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Antlr3.Runtime.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Newtonsoft.Json.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\System.Web.Optimization.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\WebGrease.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\System.Web.Optimization.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Antlr3.Runtime.pdb
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Newtonsoft.Json.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\obj\Debug\UserLayer.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\UserLayer\obj\Debug\UserLayer.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\UserLayer.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\UserLayer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\UserLayer.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\csc.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\csc.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\csc.rsp
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\csi.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\csi.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\csi.rsp
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.AppContext.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Console.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\vbc.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\vbc.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\vbc.rsp
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Antlr3.Runtime.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Newtonsoft.Json.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\System.Web.Optimization.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\WebGrease.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\System.Web.Optimization.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Antlr3.Runtime.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Newtonsoft.Json.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\obj\Debug\UserLayer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\UserLayer\obj\Debug\UserLayer.pdb
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\UserLayer.dll.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\UserLayer.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\UserLayer.pdb
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\csc.exe
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\csc.exe.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\csc.rsp
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\csi.exe
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\csi.exe.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\csi.rsp
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.AppContext.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Console.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\vbc.exe
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\vbc.exe.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\vbc.rsp
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Antlr3.Runtime.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Newtonsoft.Json.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\System.Web.Optimization.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\WebGrease.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\System.Web.Optimization.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Antlr3.Runtime.pdb
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Newtonsoft.Json.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\obj\Debug\UserLayer.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\obj\Debug\UserLayer.pdb
+C:\Users\Sora and Noel\Downloads\MerchKraft1\UserLayer\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\UserLayer.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\UserLayer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\UserLayer.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\csc.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\csc.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\csc.rsp
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\csi.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\csi.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\csi.rsp
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.AppContext.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Console.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\vbc.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\vbc.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\vbc.rsp
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Antlr3.Runtime.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Newtonsoft.Json.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\System.Web.Optimization.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\WebGrease.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\System.Web.Optimization.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Antlr3.Runtime.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Newtonsoft.Json.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\obj\Debug\UserLayer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\UserLayer\obj\Debug\UserLayer.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\UserLayer.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\UserLayer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\UserLayer.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\csc.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\csc.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\csc.rsp
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\csi.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\csi.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\csi.rsp
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.AppContext.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Console.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\vbc.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\vbc.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\vbc.rsp
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Antlr3.Runtime.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Newtonsoft.Json.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\System.Web.Optimization.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\WebGrease.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\System.Web.Optimization.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Antlr3.Runtime.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Newtonsoft.Json.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\bin\Microsoft.AI.Web.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\obj\Debug\UserLayer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\UserLayer\obj\Debug\UserLayer.pdb

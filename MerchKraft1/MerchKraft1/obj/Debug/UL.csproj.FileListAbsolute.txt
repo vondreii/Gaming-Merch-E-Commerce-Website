@@ -1,0 +1,623 @@
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\Assignment 1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+E:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+C:\Users\Sora\Downloads\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\The new real Merchkraft\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+C:\Users\Sora\Downloads\MerchKraft1 (1)\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+C:\Users\Sharl\Documents\000 Merchkraft Final\MerchKraft1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\c3220929_c3197198_Assig1\Merchkraft-Assignment1\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+F:\Documents\UON\Study\2018\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\UserLayer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\UserLayer.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\MerchKraft1\MerchKraft1\bin\UserLayer.dll.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\UserLayer.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\UserLayer.pdb
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\bin\UserLayer.dll.config
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+C:\Users\Sora and Noel\Downloads\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\UserLayer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\UserLayer.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\bin\UserLayer.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\bebs changes w registeration\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\ApplicationInsights.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\MerchKraft1.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\MerchKraft1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\WebApplication1.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\WebGrease.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\UserLayer.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\WebApplication1.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\WebApplication1.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\System.Web.Optimization.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Antlr3.Runtime.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Newtonsoft.Json.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\Microsoft.AI.Web.xml
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\UserLayer.pdb
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\bin\UserLayer.dll.config
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\obj\Debug\UL.csprojResolveAssemblyReference.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CoreCompileInputs.cache
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\obj\Debug\UL.csproj.CopyComplete
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.dll
+C:\Users\Sharl\Desktop\2018 Sem 1\Study\S1-INFT3050\A2\Currently working on this version\MerchKraft1\MerchKraft1\obj\Debug\MerchKraft1.pdb
