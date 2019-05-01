@@ -8,11 +8,7 @@ Admin can add, edit and delete products in the database.
 The goal of Merchkraft is to provide the customer with an excellent online shopping experience using a 
 user-friendly interface, intuitive design, and reliable product and user information. Uses C# and ASP.NET.
 
-## Requirements ##
-* Visual Studio (with .NET core and .NET framework, version 2.0 or above)
-* SQL Server Management Studio
-
-## Screenshots ##
+### Screenshots ###
 
 ![Alt text](Images/Capture.PNG?raw=true "Website Image1")
 
@@ -24,3 +20,6 @@ user-friendly interface, intuitive design, and reliable product and user informa
 
 ![Alt text](Images/Cap5.PNG?raw=true "Website Image5")
 
+## Requirements ##
+* Visual Studio (with .NET core and .NET framework, version 2.0 or above)
+* SQL Server Management Studio
